@@ -49,7 +49,7 @@ Wordpress Deployment, pod created in Kubernetes cluster:
 
 Verify the Deployment of 2-Tier Application by accessing the Wordpress Application on web-browser:
 
-Access the URL: http://localhost:<wordpress-NodePort>, which is http://localhost:32658/
+Access the URL at http://localhost:32658/
 
 <img width="907" height="533" alt="image" src="https://github.com/user-attachments/assets/dbec3a19-bd01-4f06-b9c6-7cbe151ddf19" />
 ------------------------------------------------------------------------------------------------------------------------------------
