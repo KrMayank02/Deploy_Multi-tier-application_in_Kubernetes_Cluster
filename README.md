@@ -42,15 +42,60 @@
 
 ## Output Result Screenshots:
 
+Deploying a Kubernetes Dashboard
+
+<img width="917" height="394" alt="image" src="https://github.com/user-attachments/assets/8ba06256-fdad-4c6e-882e-ae69e2d05ac4" />
+
+---------------------------------------------------------------------------------------------------------
+
+Install & Configure NFS Server, create NFS based PV & PVC
+
+<img width="935" height="517" alt="image" src="https://github.com/user-attachments/assets/edf8f3b3-4cce-4453-aaec-783f250196a2" />
+
+------------------------------------------------------------------------------------------
+
+<img width="285" height="366" alt="image" src="https://github.com/user-attachments/assets/a4f0b321-0cab-4505-8602-189bc4e12456" />
+
+--------------------------------------------------------------------------------------------
+
+<img width="368" height="317" alt="image" src="https://github.com/user-attachments/assets/07afecb1-e7ec-41dc-8abf-6fdb0dc3b75d" />
+
+------------------------------------------------------------------------------------------------
+Create Deployment for MySQL 
+
+<img width="492" height="990" alt="image" src="https://github.com/user-attachments/assets/df582005-a62b-4981-ad32-def424c23639" />
+
+-------------------------------------------------------------------------------------------------------
+
+
 MySQL Deployment, pod created in Kubernetes cluster:
 
 <img width="917" height="263" alt="image" src="https://github.com/user-attachments/assets/f56a637f-2580-406e-ac8e-cf94a28c5055" />
+
+-----------------------------------------------------------------------------------------------------------
+
+Expose Service for MySQL Deployment
+
+<img width="965" height="270" alt="image" src="https://github.com/user-attachments/assets/5de64a2f-7740-4f61-8dc3-dd0b3b27136b" />
+
+---------------------------------------------------------------------------------------------------------------
+
+Create Deployment for Wordpress
+
+<img width="529" height="894" alt="image" src="https://github.com/user-attachments/assets/3eead512-6dc0-423c-b213-fd2f28d236e6" />
+
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Wordpress Deployment, pod created in Kubernetes cluster:
 
 <img width="965" height="299" alt="image" src="https://github.com/user-attachments/assets/c11b0a86-1575-4af7-8984-177b29f736ff" />
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Expose Service for Wordpress Deployment
+
+<img width="851" height="249" alt="image" src="https://github.com/user-attachments/assets/34b2f275-6606-4a77-b165-8ee90500ddb3" />
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
